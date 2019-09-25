@@ -1,0 +1,11 @@
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\bin\Debug\netcoreapp2.2\DBConnection.deps.json
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\bin\Debug\netcoreapp2.2\DBConnection.runtimeconfig.json
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\bin\Debug\netcoreapp2.2\DBConnection.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\bin\Debug\netcoreapp2.2\DBConnection.dll
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\bin\Debug\netcoreapp2.2\DBConnection.pdb
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\obj\Debug\netcoreapp2.2\DBConnection.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\obj\Debug\netcoreapp2.2\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\obj\Debug\netcoreapp2.2\DBConnection.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\obj\Debug\netcoreapp2.2\DBConnection.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\obj\Debug\netcoreapp2.2\DBConnection.dll
+C:\Users\Samsung\source\repos\DBConnection\DBConnection\obj\Debug\netcoreapp2.2\DBConnection.pdb
