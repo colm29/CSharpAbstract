@@ -10,11 +10,13 @@ namespace DBConnection
             var o = new OracleConnection("ooorrracccllee");
 
             s.Open();
-            Console.WriteLine("Doing SQL stuff.....");
+            var sqlcmd = new DbCommand(s, "select * from someTable");
+            sqlcmd.Run();
             s.Close();
 
             o.Open();
-            Console.WriteLine("Doing Oracle stuff.....");
+            var ocmd = new DbCommand(o, "select * from anOracleTable");
+            ocmd.Run();
             o.Close();
         }
     }
